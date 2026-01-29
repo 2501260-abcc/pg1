@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+}
+
+form{
+    margin: 0 10%;
+    text-align: left;
+    border: solid black 1px;
+    border-radius: 20px;
+    padding: 0 5%;
+    background-color: darkgray;
+}
+
+#label_date{
+    border: solid green 2px;
+    border-radius: 5px;
+    background-color: lightgreen;
+}
+
+#date{
+    border: none;
+    background: transparent;
+    font-size: 14px;
+}
+
+#title{
+    margin: 1%;
+    width: 50%;
+    height: 20px;
+    border: solid darkgreen 3px;
+    border-radius: 5px;
+}
+
+#overview{
+    margin: 0 auto;
+    width: 100%;
+    height: 100px;
+    border: solid green 2px;
+    border-radius: 5px;
+}
+
+#adddiary{
+    margin:1% auto;
+    width: 100%;
+    height: 70px;
+    border-radius: 5px;
+    background-color: lightgreen;
+    font-size: 100%;
+}
+
+#adddiary:hover{
+    border-radius: 5px;
+    background-color: limegreen;
+}
+
+form h3{
+    margin: 5px 1px;
+    border-bottom: solid black 3px;
+}
+
+#listhedding{
+    background-color: darkgreen;
+    text-align: center;
+}
+
+#diarylist{
+    margin-top: 10px;
+    padding: 5px;
+    width: 100%;
+    background-color: lightgreen;
+    text-align: left;
+}
+
+.heading{
+    margin: 0;
+}
+
+.card{
+    padding: 5px;
+    margin-bottom: 5%;
+    border: solid black 2px;
+    box-shadow: 10px 10px gray;
+    background-color: aliceblue;
+}
+
+
+small{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background-color: antiquewhite;
+}
